@@ -14,9 +14,9 @@ const App: React.FC = () => {
       <GlobalNav />
       <Layout>
         <Switch>
-          <Route path="/" exact component={AboutUs} />
-          <Route path="/mission" component={OurMission} />
-          <Route path="/products" component={OurProducts} />
+          <Route path="/inner-crunch" exact component={AboutUs} />
+          <Route path="/inner-crunch/mission" component={OurMission} />
+          <Route path="/inner-crunch/products" component={OurProducts} />
         </Switch>
       </Layout>
     </Router>
