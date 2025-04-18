@@ -10,13 +10,13 @@ const GlobalNav: React.FC = () => {
           Inner Crunch
         </Typography>
         <Box>
-          <Button color="inherit" component={Link} to="/">
+          <Button color="inherit" component={Link} to="/inner-crunch">
             About Us
           </Button>
-          <Button color="inherit" component={Link} to="/mission">
+          <Button color="inherit" component={Link} to="/inner-crunch/mission">
             Our Mission
           </Button>
-          <Button color="inherit" component={Link} to="/products">
+          <Button color="inherit" component={Link} to="/inner-crunch/products">
             Our Products
           </Button>
         </Box>

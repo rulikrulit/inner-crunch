@@ -6,32 +6,32 @@ const OurProducts: React.FC = () => {
         { 
             name: 'Zen Crunch', 
             description: 'A harmonious blend of whole grains and nuts for a balanced start to your day.', 
-            image: '/assets/zen-crunch.jpg' 
+            image: '/inner-crunch/assets/zen-crunch.jpg' 
         },
         { 
             name: 'Mindful Muesli', 
             description: 'A thoughtful mix of oats, seeds, and dried fruits to nourish your body and soul.', 
-            image: '/assets/mindful-muesli.jpg' 
+            image: '/inner-crunch/assets/mindful-muesli.jpg' 
         },
         { 
             name: 'Serenity Flakes', 
             description: 'Light and crispy flakes that bring peace to your breakfast routine.', 
-            image: '/assets/serenity-flakes.jpg' 
+            image: '/inner-crunch/assets/serenity-flakes.jpg' 
         },
         { 
             name: 'Buddha Berry Bliss', 
             description: 'A delightful combination of berries and grains that awakens your senses.', 
-            image: '/assets/buddha-berry-bliss.jpg' 
+            image: '/inner-crunch/assets/buddha-berry-bliss.jpg' 
         },
         { 
             name: 'Harmony Granola', 
             description: 'A crunchy mix of granola and honey for a sweet and balanced treat.', 
-            image: '/assets/harmony-granola.jpg' 
+            image: '/inner-crunch/assets/harmony-granola.jpg' 
         },
         { 
             name: 'Tranquility Toasties', 
             description: 'Toasted cereal bites infused with calming chamomile.', 
-            image: '/assets/tranquility-toasties.jpg' 
+            image: '/inner-crunch/assets/tranquility-toasties.jpg' 
         },
     ];
 

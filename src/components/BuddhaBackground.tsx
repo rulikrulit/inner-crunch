@@ -1,7 +1,7 @@
 import React from 'react';
 
 const BuddhaBackground: React.FC = () => {
-  const buddhaIcon = '/assets/buddha-icon.png'; // Path to your Buddha icon PNG
+  const buddhaIcon = '/inner-crunch/assets/buddha-icon.png'; // Path to your Buddha icon PNG
   const numBuddhas = 200;
 
   return (

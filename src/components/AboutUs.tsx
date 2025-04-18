@@ -5,7 +5,7 @@ const AboutUs: React.FC = () => {
     return (
         <Box sx={{ padding: 4, textAlign: 'center', backgroundColor: '#f5f5f5', borderRadius: 2 }}>
             <img 
-                src="/assets/about-us.jpg" 
+                src="/inner-crunch/assets/about-us.jpg" 
                 alt="About Us" 
                 style={{ width: '100%', maxHeight: '300px', objectFit: 'cover', borderRadius: '8px', marginBottom: '20px' }} 
             />

@@ -19,7 +19,7 @@ const OurMission: React.FC = () => {
                 every crunchy bite. Join us on this journey towards a more mindful and fulfilling life.
             </Typography>
             <img 
-                src="/assets/mission.jpg" 
+                src="/inner-crunch/assets/mission.jpg" 
                 alt="Our Mission" 
                 style={{ width: '100%', objectFit: 'cover', borderRadius: '8px', marginBottom: '20px' }} 
             />
